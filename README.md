@@ -4,7 +4,7 @@ Binance BTC pairs raw data
 
 
 ## Donate
-If you made some serious profits from this, feel free to donate me!
+If you want to support my work please use the following addresses
 
 ```
 Eth address:
