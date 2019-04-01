@@ -1,6 +1,8 @@
 # binance-raw-data
 Binance BTC pairs raw data
 
+[20190324 00:00:00 to 20190324 23:59:59 UTC](http://162.243.10.12:8001)
+
 
 
 ## Donate
