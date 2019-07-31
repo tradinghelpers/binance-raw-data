@@ -9,7 +9,7 @@ Binance BTC pairs raw data
 If you want to support my work please use the following addresses
 
 ```
-Eth address:
+ETH address:
 0x5c8BF72198F07C7912126AD4101Dff43EDdDF52b
 ```
 ```
